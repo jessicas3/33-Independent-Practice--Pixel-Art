@@ -1,0 +1,80 @@
+.two-b {
+    background-color: #7dcfe3;
+}
+
+.two-d {
+    background-color: #7dcfe3;
+}
+
+.four-b {
+    background-color: #7dcfe3;
+}
+
+.four-d {
+    background-color: #7dcfe3;
+}
+
+.three-c {
+  background-color: #e6dd3e;
+}
+
+.two-c {
+     background-color: #fcc5f6;
+}
+
+.three-b {
+    background-color: #fcc5f6;
+}
+
+.three-d {
+    background-color: #fcc5f6;
+}
+
+.four-c {
+    background-color: #fcc5f6;
+}
+
+.five-c {
+  background-color: #4ca62b;
+}
+
+.five-b {
+    background-color: #7dcfe3;
+}
+
+.five-d {
+    background-color: #7dcfe3;
+}
+
+.two-e {
+    background-color: #7dcfe3;
+}
+
+.three-e {
+    background-color: #7dcfe3;
+}
+
+
+.four-e {
+    background-color: #7dcfe3;
+}
+
+.five-e {
+    background-color: #7dcfe3;
+}
+
+
+
+p {
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+div {
+    width: 80px;
+    height: 80px;
+    border: 1px solid black;
+    float: left;
+    padding: 1px;
+    text-align: center;
+}
